@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30001.183
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinFengCommon", "LinFengCommon.csproj", "{C2368780-C57A-4CF1-B675-C3C8F2B48AEF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinFeng.Common", "LinFeng.Common.csproj", "{C2368780-C57A-4CF1-B675-C3C8F2B48AEF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

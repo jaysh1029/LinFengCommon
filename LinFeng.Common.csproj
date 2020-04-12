@@ -7,8 +7,8 @@
     <ProjectGuid>{C2368780-C57A-4CF1-B675-C3C8F2B48AEF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>LinFengCommon</RootNamespace>
-    <AssemblyName>LinFengCommon</AssemblyName>
+    <RootNamespace>LinFeng.Common</RootNamespace>
+    <AssemblyName>LinFeng.Common</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
