@@ -46,10 +46,38 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Constants\CommonString.cs" />
+    <Compile Include="Encrypt\AESEncrypt.cs" />
+    <Compile Include="Extensions\StringExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Cache\" />
+    <Folder Include="Collections\" />
+    <Folder Include="Config\" />
+    <Folder Include="DateFormat\" />
+    <Folder Include="Email\" />
+    <Folder Include="Events\" />
+    <Folder Include="Ftp\" />
+    <Folder Include="Helper\" />
+    <Folder Include="HtmlParse\" />
+    <Folder Include="Image\" />
+    <Folder Include="IO\" />
+    <Folder Include="Log\" />
+    <Folder Include="NativeMethod\" />
+    <Folder Include="Net\" />
+    <Folder Include="Office\" />
+    <Folder Include="PDF\" />
+    <Folder Include="Redis\" />
+    <Folder Include="Reflection\" />
+    <Folder Include="Regex\" />
+    <Folder Include="Threading\" />
+    <Folder Include="Video\" />
+    <Folder Include="Xml\" />
+    <Folder Include="Zip\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
