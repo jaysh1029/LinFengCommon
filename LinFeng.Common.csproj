@@ -66,6 +66,7 @@
     <Folder Include="HtmlParse\" />
     <Folder Include="Image\" />
     <Folder Include="IO\" />
+    <Folder Include="Linq\" />
     <Folder Include="Log\" />
     <Folder Include="NativeMethod\" />
     <Folder Include="Net\" />
